@@ -1,0 +1,45 @@
+1. OVERVIEW OF UIPATH
+   
+   Introduction to UiPath platform and its components
+   Installation of UiPath’s Community Edition
+   Types of default workflows
+   User Interface of UiPath tool 
+   Ativities
+   Workflow Files in UiPath
+   RE Framework
+
+2. COMPONENTS AND ACTIVITIES
+   UI Automation Activities
+   System Activities
+   Variables
+   Arguments
+   Imports panel
+   User Events
+
+3.APP INTEGRATION, DATA/SCREEN SCRAPING AND VARIOUS TYPES OF RECORDINGS
+   App Integration
+   Recording
+   Scraping
+   Selector
+   Workflow Activities
+
+4. DEBUGGING AND LOGGING
+   Debugging
+   Error Handling
+   Logging
+   Extensions
+   Project Organization
+
+5. DATA MANIPULATION AND DATA EXTRACTION
+   Data Manipulation
+   Automation of Virtual Machines
+   Introduction to Native Citrix Automation
+   Text and Image Automation
+   Data Extraction
+   Computer Vision
+
+6. ORCHESTRATOR COMMUNITY EDITION
+   UiPath Orchestrator Overview
+   Orchestrator activities
+   Introduction to Orchestrator CE
+   Orchestrator CE
